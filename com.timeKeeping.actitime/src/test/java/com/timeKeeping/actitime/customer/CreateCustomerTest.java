@@ -45,6 +45,7 @@ public class CreateCustomerTest {
 		HomePage home = new HomePage(driver);
 		home.clickOnTask();
 		
+		
 		TaskPage task=new TaskPage(driver);
 		task.clickOnAddNewButton();
 		task.clickOnNewCustomer();

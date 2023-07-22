@@ -57,6 +57,10 @@ public class CreateCustomerTest {
 		System.out.println("Pass : Customer Name is verified");
 		System.out.println("Pass : Customer Name is verified");
 
+
+		System.out.println("Changes done in Class");
+
+
 		
 		home.logoutAction();
 		

@@ -55,6 +55,8 @@ public class CreateCustomerTest {
 		String actualCustomerName = task.verifyCustomerName();
 		Assert.assertEquals(actualCustomerName, expectedCustomeName);
 		System.out.println("Pass : Customer Name is verified");
+		System.out.println("Pass : Customer Name is verified");
+
 		
 		home.logoutAction();
 		
